@@ -39,4 +39,4 @@ public class Dice
         return(faceUp);
     }
 }
-© 2019 GitHub, I
+
